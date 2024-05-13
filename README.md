@@ -1,4 +1,4 @@
-I was interested to find out how Base64 encoding worked... 
+I was interested to find out how base64 encoding worked... 
 
 So I made [base64enc.sh](https://github.com/Blyzz616/base64-Encoder/blob/main/base64enc.sh) to enocde into base64 from plain text.
 
@@ -8,4 +8,4 @@ Yes - I know that I could simply have used `echo "Hello World!" | base64` to enc
 
 Then, because I'm a completionist, I put them together in [base.sh](https://github.com/Blyzz616/base64-Encoder/blob/main/base.sh).
 
-Now I know how base64 works!
+Now I know how base64 works, at least as far as plaintext is concerned.
