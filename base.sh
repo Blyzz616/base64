@@ -314,7 +314,7 @@ ENCODE(){
 }
 
 read -rp "
-  Are we Encoding or Decodiong?
+  Are we Encoding or Decoding?
   -----------------------------
   1) To Encode plaintext to Base64
   2) To Decode Base64 to plaintext
